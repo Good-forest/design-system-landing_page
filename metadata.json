@@ -1,0 +1,8 @@
+{
+  "name": "goodforest Design System",
+  "description": "Design system and component viewer for goodforest landing pages and showcases",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
